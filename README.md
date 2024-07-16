@@ -29,9 +29,8 @@ IT project planning involves several key stages essential for successful platfor
 Develop the initial design, including UML diagrams and user interface mock-ups.
   #### UML Diagrams
   
-![Class diagram VF LTR](https://github.com/user-attachments/assets/ddae467e-7c6a-4b52-bb1b-741f96c33d5c)
-![diagramme de séquence](https://github.com/user-attachments/assets/51db811c-bf53-47b4-92f9-5499972ad5ad)
-![usecase VF](https://github.com/user-attachments/assets/f1eda730-da59-4189-9b7b-42421c60bd8e)
+Example of an UML diagram : ![Class diagram VF LTR](https://github.com/user-attachments/assets/ddae467e-7c6a-4b52-bb1b-741f96c33d5c)
+
 
   #### Platform UI
   
